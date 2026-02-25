@@ -81,6 +81,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
+ 
+- [Satura AI](https://saturaai.com) - Turn videos into growth machines.
+  - **Tags**: `Content Creator Tools` `AI Video Editing` `Youtube Automation`
+  - **Pricing**: Paid
 
 - [BloomNote](https://www.bloomnote.me/) - Turn your YouTube videos, files, and links into interactive notebooks for learning.
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
